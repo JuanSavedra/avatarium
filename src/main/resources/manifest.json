@@ -1,0 +1,24 @@
+{
+    "Group": "JuanSavedra",
+    "Name": "avatarium",
+    "Version": "0.1.0",
+    "Description": "Import your own base body and build an RPG-style wardrobe of hair, clothes and accessories for it",
+    "Authors": [
+        {
+            "Name": "Juan_Savedra"
+        }
+    ],
+    "Website": "",
+    "DisabledByDefault": false,
+    "IncludesAssetPack": true,
+    "Dependencies": {
+        "Hytale:AssetModule": "*"
+    },
+    "OptionalDependencies": {
+    },
+    "ServerVersion": ">=0.5.3 <0.6.0",
+    "Main": "dev.juansavedra.avatarium.AvatariumPlugin",
+    "UpdateChecker": {
+        "CurseForge": ""
+    }
+}
